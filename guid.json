@@ -9,6 +9,11 @@
                 "title": "Features",
                 "text": "detailed features"
                
+        }, 
+        {
+                "title": "new Features",
+                "text": "new detailed features"
+               
         }
   ]
 }
